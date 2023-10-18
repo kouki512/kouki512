@@ -1,4 +1,4 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kouki512&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kouki512&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kouki512&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kouki512&theme=dark&utcOffset=8)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouki512&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kouki512&theme=onedark&show_icons=ture" />
+</p>
